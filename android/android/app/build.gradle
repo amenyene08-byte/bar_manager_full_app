@@ -1,0 +1,16 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'com.example.bar_manager_pro_2025'
+    compileSdk 34
+
+    defaultConfig {
+        applicationId "com.example.bar_manager_pro_2025"
+        minSdk 21
+        targetSdk 34
+        versionCode 1
+        versionName "1.0"
+    }
+}
